@@ -1,0 +1,9 @@
+www
+node_modules
+**/packages
+build
+pubspec.lock
+.pub
+.packages
+.DS_Store
+.idea
